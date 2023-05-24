@@ -1,7 +1,3 @@
 #  ADA Course
 
-## Comando git push 
-
-### Comando git pull
-
-### Comando git fetch
+## Este é um repositório de treinamento do curso
